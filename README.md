@@ -1,4 +1,4 @@
-# ROS2 Set param of one node from another node
+# ROS2 Set param of one node from another
 
 This quick-n-dirty demo shows how to dynamically update parameters of one node from another node using the service nature of the parameters management.
 
